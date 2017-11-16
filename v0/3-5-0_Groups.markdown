@@ -1,8 +1,8 @@
 # 3.5.0    {{Group}}s
 
-> {{Group}}s in {{Lamplight}} are collections of {{people}} and/or {{organisations}, providing a list of names, and answering the question 'Show me {{people}} who... Once set-up, they provide a number of powerful features for reporting, and day to day activity.
+> {{Group}}s in {{Lamplight}} are collections of {{people}} and/or {{organisations}, providing a list of names, and answering the question 'Show me {{people}} who... Once set-up, they provide a number of powerful features for reporting, and day to day activity.  There are Auto {{group}}s and Manual {{groups}}.
 
-Lamplight has 'Manual {{group}}s', where you simply add and remove {{people}} to manually yourself, and 'Auto {{group}}s' where you enter search criteria and the system locates the {{people}} or {{Organisation}}s who match the criteria.  For example you may create a group, with a criteria of male service users, aged 21-30, who have attended a particular service more than twice in the previous month.  Every time you run the group, the system identifies those who match the criteria, and refreshes the list of names.
+In an 'Auto {{group}}, you enter your search criteria and the system locates the {{people}} or {{Organisation}}s who match the criteria.  For example you may create a {{group}}, with a criteria of male service users, aged 21-30, who have attended a particular service more than twice in the previous month.  Every time you run the {{group}}, the system identifies those who match the criteria, and refreshes the list of names.  In a 'Manual {{group}}' there are no criteria, and you simply add and remove individuals to and from the group yourself, manually.  A manual {{group}} only changes when you add and remove individuals or organisations yourself. 
 
 Each {{person}} or {{Organisation}} can belong to any number of {{group}}s.
 
