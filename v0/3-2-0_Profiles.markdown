@@ -12,8 +12,8 @@ Every system will have different tabs, though almost all will start with the Con
 
 Your system administrator can add additional tabs and their contents, that you will seeon the profile page. You will often see different tabs, depending on the type of individual or organisation you are looking at.  You may for example see different tabs in a profile for a {{user}}, member of {{staff}} or an organisation. Different {{Lamplight}} {{Project}}s may also show different tabs and fields.  
 
-* Information about setting up tab and fields [18.3.0  System Administration - Custom profile tabs and fields for {{people}}](/help/index/v/{{version}}/p/18.3.0)
-* Information about Projects [3.7.0  {{Project}}s](/help/index/v/{{version}}/p/3.7.0). 
+* Information about setting up tab and fields: [18.3.0  System Administration - Custom profile tabs and fields for {{people}}](/help/index/v/{{version}}/p/18.3.0)
+* Information about Projects: [3.7.0  {{Project}}s](/help/index/v/{{version}}/p/3.7.0). 
 
 ###### core module
 
