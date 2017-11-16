@@ -4,7 +4,7 @@
 
 Welcome to the {{Lamplight}} help system.
 
-Lamplight is designed as a fully featured management system for charities and voluntary sector organisations, and this help section will help you navigate it.  There are two ways of using the system.  If you are new to Lamplight we suggest you start with our basic training videos, and working through the first few sections.  These will walk you through using {{Lamplight}} day to day.  If you are looking for specific information, we'd encourage you to go directly to the section you need.  Each section starts with a brief summary or 'how-to'; you may only need to read the summary for a quick reminder. Each section then has detailed text and in many cases screenshots that explains in detail how to accomplish a particular task or use a feature of Lamplight.  
+Lamplight is designed as a fully featured management system for charities and voluntary sector organisations, and this help section will help you navigate it.  There are two ways of using the system.  If you are new to Lamplight we suggest you start with our basic training videos, and work through the first few sections.  These will walk you through using {{Lamplight}} day to day.  If you are looking for specific information, we'd encourage you to go directly to the section you need.  
 
 Each section starts with a brief summary or 'how-to'; you may only need to read the summary for a quick reminder. Each section then has detailed text and in many cases screenshots that explains in detail how to accomplish a particular task or use a feature of Lamplight.
 
@@ -16,9 +16,9 @@ We start by explaining the **general concepts and language** we use in the syste
 * [4.0.0  Navigation and controls](/help/index/v/{{version}}/p/4.0.0))
 * [5.0.0  Frequently Asked Questions](/help/index/v/{{version}}/p/5.0.0)
 
-**Get started**
+**Geting started**
 
-Understand our Logging in system, using the Homepage, creating and editing profiles, and adding editing and viewing {{ work}} records.
+Understand our Logging in system, using the Homepage, creating and editing profiles, and adding editing and viewing {{work}} records.
 
 * [6.0.0  Logging In](/help/index/v/{{version}}/p/6.0.0)
 * [7.0.0  Homepage](/help/index/v/{{version}}/p/7.0.0)
@@ -29,7 +29,7 @@ Understand our Logging in system, using the Homepage, creating and editing profi
 
 **Modules**
 
-Different systems make use of different modules depending on your service.  If you don't have these modules enabled these sections will be slightly greyed out and with a message and the information will not apply to your system. Please contact us if you would like to turn these features on your system.
+Different systems make use of different modules depending on your needs.  If you don't have these modules enabled these sections will be slightly greyed out and the information will not apply to your system. Please contact us if you would like to turn these features on your system.
 
 **Reporting**
 
@@ -41,13 +41,13 @@ Different systems make use of different modules depending on your service.  If y
 
 **System Administration**
 
-The final sections cover making changes in the structure and core settings of your system.  Changes from previous versions, troubleshooting, and some pointers to help when setting up your system for the first time.
+The final sections cover making changes in the structure and core settings of your system.  This includes changes from previous versions, troubleshooting, and some pointers to help when setting up your system for the first time.
 
 **Downloading the manual**
 
 The whole manual is available to download as a Word document.  You can download it by clicking the 'Download' menu item, in the top left of any help page.
 
-If you have any suggestions about how the documentation could be improved do please let us know, by email to [enquiries@lamplightdb.co.uk](mailto:enquiries@lamplightdb.co.uk) 
+If you have any suggestions about how this help documentation could be improved do please let us know, by email to [enquiries@lamplightdb.co.uk](mailto:enquiries@lamplightdb.co.uk) 
 
 ###### core module
 
