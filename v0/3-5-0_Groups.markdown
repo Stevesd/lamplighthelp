@@ -2,8 +2,6 @@
 
 > {{Group}}s in {{Lamplight}} are collections of {{people}} and/or {{organisations}, providing a list of names, and answering the question 'Show me {{people}} who... Once set-up, they provide a number of powerful features for reporting, and day to day activity.  There are Auto {{group}}s and Manual {{groups}}.
 
-In an 'Auto {{group}}, you enter your search criteria and the system locates the {{people}} or {{Organisation}}s who match the criteria.  For example you may create a {{group}}, with a criteria of male service users, aged 21-30, who have attended a particular service more than twice in the previous month.  Every time you run the {{group}}, the system identifies those who match the criteria, and refreshes the list of names.  In a 'Manual {{group}}' there are no criteria, and you simply add and remove individuals to and from the group yourself, manually.  A manual {{group}} only changes when you add and remove individuals or organisations yourself. 
-
 Each {{person}} or {{Organisation}} can belong to any number of {{group}}s.
 
 You can use {{group}}s to:
@@ -22,7 +20,7 @@ You can use {{group}}s to:
  
   **Displaying further information about {{people}} in groups**
   
-  A {{Group}} Data View, lets you display information about those in a group, in a format similar to a spreadsheet or register.  This can also be sorted, printed, or downloaded to excel for further use.
+  A {{Group}} Data View, lets you display information about those in a group, in a format similar to a spreadsheet or register.  This can be used on screen, printed, or downloaded to excel for further use.
   
  Further reading
 * [Using {{Group}} data views (14.8.0)](/help/index/v/{{version}}/p/14.8.0) ).
