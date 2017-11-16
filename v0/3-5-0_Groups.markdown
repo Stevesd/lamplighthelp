@@ -11,7 +11,7 @@ You can use {{group}}s to:
   * develop complex, custom searches
   * speed up data entry - instead of entering each person individually into a new {{work}} record, just type in the {{group}} name and they'll all be added
   * communicate - you can create mail merges for all the members of a {{group}}
-  * {{report}} - groups can be used as filters in {{report}}s, so you can focus in your {{report}}ing when you need to
+  * {{report}} - groups can be used as filters in {{report}}s, to further focus your {{report}}ing when you need to
   
   Further reading
    * [Introduction to {{group}}s (14.0.0)](/help/index/v/{{version}}/p/14.0.0)
