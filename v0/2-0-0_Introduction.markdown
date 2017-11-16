@@ -24,7 +24,7 @@ Understand our Logging in system, using the Homepage, creating and editing profi
 * [7.0.0  Homepage](/help/index/v/{{version}}/p/7.0.0)
 * [8.0.0  {{People}} and profiles](/help/index/v/{{version}}/p/8.0.0)
 * [9.0.0  {{Work}} records](/help/index/v/{{version}}/p/9.0.0)
-The sections  these also cover referral, outcomes, evaluation, grants and other records.
+* The sections  these also cover referral, outcomes, evaluation, grants and other records.
 
 
 **Modules**
