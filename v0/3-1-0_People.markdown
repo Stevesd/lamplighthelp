@@ -1,8 +1,8 @@
 # 3.1.0    {{People}}
 
-> {{Lamplight}} stores details of {{people}}. Each of these can be of various types and have different roles: this section explains the differences and how they can be used. 
+> {{Lamplight}} stores details of {{people}}. You can have various different types of {{people}} and they can have different roles: this section explains the differences and how they can be used. 
 
-{{Lamplight}} holds details of the individuals, families and organisations that you {{work}} with or are involved with in some other way.
+{{Lamplight}} holds details of the individuals, families and organisations that you {{work}} with or are involved with in some other way.  You'll only see {{Families}} if you have them enabled in your system.
 
 {{People}} can fall into any of the following categories:
 
@@ -19,7 +19,7 @@ Organisations can fall into any of the following categories:
   * {{Funder}}s
   * {{Org}}s
   
-The customisation of your system means that some of the descriptions below may be innacurate for you, as one or more of these roles may have been adapted to match your service.  The title will be correct, but the description may not match.
+As {{Lamplight}} is a highly customised system, some of the descriptions below may be inaccurate for you, as one or more of these roles may have been adapted to match your service.  The title will be correct, but the description may not match.  If you have any questions about non-matching descriptions, please speak with your system administrator.
 
 ### {{User}}s
 
