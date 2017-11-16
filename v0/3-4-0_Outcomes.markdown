@@ -16,8 +16,8 @@ The other way of assessing impact is by surveying a sample of people every now a
 This kind of date is known as 'latitudinal data', and can be integrated into Lamplight using the Evaluations Module (link below)
 
 Further reading
-* Information on Outcomes: [17.3.0  {{Outcome}}s overview](/help/index/v/{{version}}/p/11.0.0
-* Reporting on Outcomes: [17.3.0  {{Outcome}}s {{report}}](/help/index/v/{{version}}/p/17.3.0
+* Information on Outcomes: [11.0.0  {{Outcome}}s overview](/help/index/v/{{version}}/p/11.0.0)
+* Reporting on Outcomes: [17.3.0  {{Outcome}}s {{report}}](/help/index/v/{{version}}/p/17.3.0)
 * Information on the Evaluations Module: [15.0.0  {{Eval}}s module overview](/help/index/v/{{version}}/p/15.0.0)
 
 ###### core module
