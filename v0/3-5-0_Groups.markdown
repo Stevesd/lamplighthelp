@@ -1,6 +1,6 @@
 # 3.5.0    {{Group}}s
 
-> {{Group}}s in {{Lamplight}} are collections of {{people}} and/or {{organisations}, providing a list of names, and answering the question 'Show me {{people}} who...’.  When you create {{groups}} they provide powerful features for reporting, and day to day activity.  There are Auto {{group}}s and Manual {{groups}} (and merge {{groups}}, which bring two groups together).
+> {{Group}}s in {{Lamplight}} are collections of {{people}} and/or {{organisations}, which provide a list of names, and answering the question 'Show me {{people}} who...’.  When you create {{groups}} they provide powerful features for reporting, and day to day activity.  There are Auto {{group}}s and Manual {{groups}} (and merge {{groups}}, which bring any two groups together).
 
 Each {{person}} or {{Organisation}} can belong to any number of {{group}}s.
 
