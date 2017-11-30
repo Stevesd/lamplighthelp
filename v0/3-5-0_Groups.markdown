@@ -18,7 +18,7 @@ You can use {{group}}s to:
  
   **Displaying further information about {{people}} in groups**
   
-  A {{Group}} Data View, lets you display information about those in a group, in a format similar to a spreadsheet or register.  This can be used on screen, printed, or downloaded to excel for further use.
+  A {{Group}} Data View, lets you display aditional information about those in a group, in a format similar to a spreadsheet or register.  This can be used on screen, printed, or downloaded to excel for further use.
   
  Further reading
 * [Using {{Group}} data views (14.8.0)](/help/index/v/{{version}}/p/14.8.0) ).
