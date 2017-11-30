@@ -45,7 +45,8 @@ are individuals who volunteer with your organisation
 
 are the individuals or organisations that fund you or to whom you would like to apply for funding.
 
-See section [8.4.0  Adding a profile](/help/index/v/{{version}}/p/8.4.0) to see how to add a new {{person}}. 
+Further reading
+[Adding a profile / person (8.4.0)](/help/index/v/{{version}}/p/8.4.0)
 
 ###### core module
 
