@@ -4,6 +4,6 @@
 
  
 
-[View the video](/help/video/id/1)
+
 ###### core module
 
