@@ -45,6 +45,6 @@ System administrators can create customised designs if required, which you'll se
 Further reading
 * [({{Eval}}s overview 15.0.0)](/help/index/v/{{version}}/p/15.0.0)
 * [(Creating an {{eval}} 15.1.1)(/help/index/v/{{version}}/p/15.1.1)
-* [Viewing {{eval data}} 15.1.2)(/help/index/v/{{version}}/p/15.1.2)
+* [Viewing {{eval}} data 15.1.2)(/help/index/v/{{version}}/p/15.1.2)
 * [{{eval}} reporting 17.5.0)(/help/index/v/{{version}}/p/17.5.0)
 
