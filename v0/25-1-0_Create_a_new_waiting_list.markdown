@@ -32,7 +32,7 @@ Removal from the list can also (or alternatively) be a done due to the member be
 
 You can choose if you wish, to receive an alert to appear when the members have been on the {{waiting list}} for a specified amount of time.  This takes the form of a {{task}} in the diary of the person chosen for notifications. Type in the amount in the number box and choose from the drop-down list whether it is days, weeks, months or years.  Then choose from the list below, who will be alerted.
 
-You can also add a target time for people to be removed from a waiting list.  When viewing the waiting list, this will show those exceeding the time you choose, highlighted in red.
+You can also add a target time for people to be removed from a {{waiting list}}.  When viewing the {{waiting list}}, this will show those exceeding the time you choose, highlighted in red.
 
 When all the information has been added, click the 'save' button on the bottom right hand corner. You have now created your new {{waiting list}}.
 
