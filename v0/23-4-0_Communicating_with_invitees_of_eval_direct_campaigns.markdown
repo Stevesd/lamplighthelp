@@ -2,7 +2,7 @@
 
 > {{Lamplight}} lets you email invitees to {{eval}} direct campaigns: all of them, those that haven't responded, or those that have. 
 
-To email invitees, view all campaigns (see section [(Viewing existing {{Eval}}s Direct campaigns 23.2.0)](/help/index/v/{{version}}/p/23.2.0)), right-click (or use the menu button) on the campaign you wish to view, and select the appropriate email option. There is no difference between these except that the recipient list is filtered appropriately. For more details on {{comm}}s generally see section [12.0.0  {{Comm}}s](/help/index/v/{{version}}/p/12.0.0).
+To email invitees, view all campaigns (see section [(Viewing existing {{Eval}}s Direct campaigns 23.2.0)](/help/index/v/{{version}}/p/23.2.0), right-click (or use the menu button) on the campaign you wish to view, and select the appropriate email option. There is no difference between these except that the recipient list is filtered appropriately. For more details on {{comm}}s generally see section [12.0.0  {{Comm}}s](/help/index/v/{{version}}/p/12.0.0).
 
 The key difference is that the text editor features additional mail-merge options that you can use. To view these, click on the '{{Message}} content' section and then open the text editor: 
 
