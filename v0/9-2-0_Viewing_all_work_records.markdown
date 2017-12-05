@@ -24,7 +24,7 @@ The second search bar is called 'Additional data columns to display'.  This does
 
 __Saving your view__
 
-You can adjust the columns shown in the table, by right clicking in the headings row of the table.  This will show you a list of rows.  Ticked rows are shown, and unticked rows are hidden.  You can change this by clicking on the item you wish to show or hide. If you wish to make that change the default view, click again and from the bottom of the pop-up list, choose 'Save table columns layout'.  This will now be shown as the default view for you.  This only affects you, and not the rest of your team.  Choose 'Reset table columns layout' to return to the system standard.  (If you have added additional columns from the 'Additional data columns to display' view, these can also be saved.)
+You can adjust the columns shown in the table, by right clicking in the headings row of the table.  This will show you a list of columns.  Ticked columns are shown, and unticked columns are hidden.  You can change this by clicking on the item you wish to show or hide. If you wish to make that change the default view, click again and from the bottom of the pop-up list, choose 'Save table columns layout'.  This will now be shown as the default view for you.  This only affects you, and not the rest of your team.  Choose 'Reset table columns layout' to return to the system standard.  (If you have added additional columns from the 'Additional data columns to display' view, these can also be saved.)
 
 ![Saving table column layout{{work}} records]({{imgpath}}1205a.png)
 
